@@ -10,6 +10,8 @@ body{
 
 #cimkep{
   float:left;  
+    height:170px;
+  
 }
 
 h1{
@@ -18,7 +20,7 @@ h1{
 
 p{
   text-align: justify;
-    margin: 0 10px;
+    margin: 10px 10px 10px 10px;
 }
 
 
@@ -35,3 +37,4 @@ p{
 li{
   font-weight:bold;
 }
+
