@@ -2,5 +2,7 @@ body {
     background-image:url(hatterkocka.png);
     color:#443507;
     
-    
+}
+p {
+    margin: 0 10px;
 }
